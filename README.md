@@ -101,7 +101,7 @@ Predictive-Modeling-Using-Machine-Learning/
 
 ## Author
 
-Lakshya Mehra
+Lakshay Mehra
 
 Computer Science Engineering (AI & ML)
 
